@@ -1,4 +1,4 @@
-# Hi, I'm Sujan 👋
+# Hi, I'm Sujan Bhowmik👋
 
 🎓 B.Tech CSE Student
 💻 Aspiring Data Scientist
@@ -13,9 +13,9 @@
 
 ## 🛠️ Tech Stack
 
-C • Python • SQL • HTML • CSS • JavaScript
+C • C++ • SQL 
 Git • GitHub • VS Code
-Pandas • NumPy • Matplotlib • Scikit-learn
+
 
 ## 📌 Featured Projects
 
