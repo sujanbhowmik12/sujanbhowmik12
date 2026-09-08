@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sujan 👋
 
-<!--
-**sujanbhowmik12/sujanbhowmik12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Aspiring Data Scientist
+📊 Interested in Data Science, Machine Learning & AI
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing B.Tech in Computer Science & Engineering
+- 🌱 Learning Python, SQL, Data Science & Machine Learning
+- 💡 Interested in AI and real-world problem solving
+- 🔨 Building projects to improve my development skills
+
+## 🛠️ Tech Stack
+
+C • Python • SQL • HTML • CSS • JavaScript
+Git • GitHub • VS Code
+Pandas • NumPy • Matplotlib • Scikit-learn
+
+## 📌 Featured Projects
+
+- LectureMind AI
+- YTMR-LPG Management System
+- Data Science Projects
+- C Programming & DSA
+
+## 📫 Connect With Me
+
+LinkedIn | Portfolio | GitHub
